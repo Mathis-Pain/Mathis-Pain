@@ -5,3 +5,6 @@
 🚀 Actuellement en formation développeur full stack à Zone01 Rouen.
 
 💻 Passionné par la programmation et les technologies, je relève chaque défi avec enthousiasme !
+
+✨ « Tout changement est difficile au début, compliqué au milieu et magnifique à la fin. »
+— Robin Sharma
